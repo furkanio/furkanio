@@ -2,7 +2,7 @@
 - 👀 I’m interested in swift and robotics.
 - 🌱 I’m currently learning iOT and AI things.
 - 📫 How to reach me dev.furkanios@gmail.com and on instagram @dev.furkan
-devfurkan.com
+- www.devfurkan.com
 
 
 <!---
